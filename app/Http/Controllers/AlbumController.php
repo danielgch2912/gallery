@@ -19,6 +19,12 @@ class AlbumController extends Controller
 		return response()->json($album);
 	}
 	
+	/**
+	 * List the resources of a specific album
+	 * 
+	 * @param unknown $album
+	 * @return unknown
+	 */
 	public function listAlbum($album)
 	{
 		$result = \App\Album::getByUrlCode($album);
