@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'GalleryIcons';
+  src: url('../fonts/GalleryIcons.eot');
+  src: url('../fonts/GalleryIcons.eot?#iefix') format('embedded-opentype'), 
+	   url('../fonts/GalleryIcons.woff') format('woff'), 
+	   url('../fonts/GalleryIcons.ttf') format('truetype'), 
+	   url('../fonts/GalleryIcons.svg#GalleryIcons') format('svg');
+}
+
+.gallery-icons {
+	font-family: 'GalleryIcons';
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    font-size: 20px;
+}
+
+.gallery-icons-right:before {
+    content: "\e025";
+}
+
+.gallery-icons-left:before {
+    content: "\e026";
+}
