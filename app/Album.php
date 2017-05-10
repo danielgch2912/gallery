@@ -17,7 +17,13 @@ class Album extends Model
 		if (empty($code)) {
 			return null;
 		}
+				
+		$albums = \App\Album::where('url_code', $code)->get();
 		
-		return \App\Album::where('url_code', $code)->get();
+		foreach ($albums as $album) {
+			$album->pictures = \App\Picture::getByAlbumId($album->id);
+		}
+		
+		return $albums;
 	}
 }
