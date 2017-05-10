@@ -1,0 +1,82 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20150922 at Wed May 10 11:20:53 2017
+ By daniel.chaves
+SIL Open Font License (OFL)
+</metadata>
+<defs>
+<font id="SidraIcons" horiz-adv-x="1200" >
+  <font-face 
+    font-family="SidraIcons"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="1200"
+    panose-1="0 0 0 0 0 0 0 0 0 0"
+    ascent="960"
+    descent="-240"
+    bbox="-110 -2 1309 1201"
+    underline-thickness="1171"
+    underline-position="-234"
+    unicode-range="U+000D-E026"
+  />
+<missing-glyph horiz-adv-x="635" 
+d="M61 120h359v623h-359v-157v-466zM0 804h480v-743h-241h-239v743z" />
+    <glyph glyph-name=".notdef" horiz-adv-x="635" 
+d="M61 120h359v623h-359v-157v-466zM0 804h480v-743h-241h-239v743z" />
+    <glyph glyph-name="splitter" unicode="&#xe001;" horiz-adv-x="1197" 
+d="M1010 464h-808v-215l-312 345l312 300v-214l808 2v214l299 -300l-299 -345v213zM499 1154h191v-382h-191v382zM496 380h192v-382h-192v382z" />
+    <glyph glyph-name="checkbox" unicode="&#xe002;" horiz-adv-x="1198" 
+d="M1089 981c0 49 -43 110 -109 110h-764c-73 0 -109 -67 -109 -110v-763c0 -43 53 -109 109 -109h764c45 0 109 43 109 109v763zM216 1201h764c110 0 218 -112 218 -220v-763c0 -107 -108 -218 -218 -218h-764c-107 0 -218 108 -218 218v763c0 109 110 220 218 220z" />
+    <glyph glyph-name="checkmark" unicode="&#xe003;" 
+d="M559 230c-15 -20 -47 -24 -59 -24c-16 0 -44 7 -61 26l-255 272l173 185l138 -166l345 449l164 -132z" />
+    <glyph glyph-name="indeterminatemark" unicode="&#xe004;" 
+d="M313 700h576v-200h-576v200z" />
+    <glyph glyph-name="uniE005" unicode="&#xe005;" 
+d="M189 630l272 118l170 -248z" />
+    <glyph glyph-name="uniE006" unicode="&#xe006;" 
+d="M189 630l272 118l170 -248z" />
+    <glyph glyph-name="uniE007" unicode="&#xe007;" 
+d="M189 630l272 118l170 -248z" />
+    <glyph glyph-name="checked" unicode="&#xe008;" 
+d="M559 230c-15 -20 -47 -24 -59 -24c-16 0 -44 7 -61 26l-255 272l173 185l138 -166l345 449l164 -132zM1089 981c0 49 -43 110 -109 110h-764c-73 0 -109 -67 -109 -110v-763c0 -43 53 -109 109 -109h764c45 0 109 43 109 109v763zM216 1201h764c110 0 218 -112 218 -220
+v-763c0 -107 -108 -218 -218 -218h-764c-107 0 -218 108 -218 218v763c0 109 110 220 218 220z" />
+    <glyph glyph-name="indeterminate" unicode="&#xe009;" 
+d="M313 700h576v-200h-576v200zM1089 981c0 49 -43 110 -109 110h-764c-73 0 -109 -67 -109 -110v-763c0 -43 53 -109 109 -109h764c45 0 109 43 109 109v763zM216 1201h764c110 0 218 -112 218 -220v-763c0 -107 -108 -218 -218 -218h-764c-107 0 -218 108 -218 218v763
+c0 109 110 220 218 220z" />
+    <glyph glyph-name="radio" unicode="&#xe00a;" 
+d="M601 1057c-246 0 -453 -199 -453 -439c0 -269 183 -470 452 -470c257 0 454 214 454 469c0 247 -207 440 -453 440zM0 614c0 324 257 586 597 586c358 0 603 -250 603 -580c0 -370 -261 -620 -597 -620s-603 254 -603 614z" />
+    <glyph glyph-name="radiomark" unicode="&#xe00b;" 
+d="M607 900c182 0 294 -139 294 -300c0 -180 -141 -300 -302 -300c-166 0 -299 125 -299 300c0 137 113 300 307 300z" />
+    <glyph glyph-name="uniE010" unicode="&#xe010;" 
+d="M520 616c-97 -5 -145 -20 -186 -57c-37 -33 -63 -168 -63 -246c0 -29 3 -50 11 -56c39 -29 167 -52 317 -52c131 0 286 19 318 47c8 7 12 28 12 57c0 80 -27 216 -63 251c-34 32 -62 46 -188 53c0 0 -25 -83 -79 -83c-57 0 -79 86 -79 86zM430 849
+c0 -95 76 -171 169 -171s168 76 168 171s-75 171 -168 171s-169 -76 -169 -171zM9 602c0 326 264 590 590 590s590 -264 590 -590s-264 -590 -590 -590s-590 264 -590 590z" />
+    <glyph glyph-name="graph" unicode="&#xe016;" 
+d="M917 524h-201v-451h201v451zM644 0v552c0 26 21 48 47 48h226v369c0 27 22 49 49 49h182c29 0 52 -22 52 -49v-969h-556zM278 362h-207v-286h207v286zM0 386c0 26 22 48 48 48h230v405c0 27 22 49 48 49h181c27 0 49 -22 49 -49v-839h-556v386z" />
+    <glyph glyph-name="graphStack" unicode="&#xe017;" 
+d="M1123 881h-195v-389h195v389zM698 556h-195l-2 -290h195zM265 756h-187v-382h187v382zM426 0v600c0 19 17 34 38 34h268c22 0 40 -15 40 -34l-2 -600h-344zM0 0v792c0 23 17 42 39 42h265c20 0 37 -19 37 -42v-792h-341zM851 0v923c0 22 18 39 40 39h269
+c22 0 40 -17 40 -39v-923h-349z" />
+    <glyph glyph-name="graphExtend" unicode="&#xe018;" 
+d="M1123 1120h-192v-340h192v340zM692 1123h-194v-777h194v777zM265 1123h-187v-483h187v483zM425 0v1160c0 23 18 41 40 41h268c20 0 37 -18 37 -41v-1160h-345zM0 0v1162c0 22 18 39 40 39h264c20 0 37 -17 37 -39v-1162h-341zM854 0v1161c0 22 18 40 41 40h267
+c21 0 38 -18 38 -40v-1161h-346z" />
+    <glyph glyph-name="summation" unicode="&#x2211;" 
+d="M1072 1201c1 -87 9 -189 23 -377l-100 -8c-9 82 -33 181 -105 188h-518l311 -374l-289 -378h480c106 1 105 44 138 143l106 -12c-26 -213 -38 -301 -40 -383h-1064v70l446 577l-379 453v101h991z" />
+    <glyph glyph-name=".null" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="nonmarkingreturn" unicode="&#xd;" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="323" 
+ />
+    <glyph glyph-name="slash" unicode="/" 
+ />
+    <glyph glyph-name="uniE01A" unicode="&#xe01a;" horiz-adv-x="1207" 
+d="M330 568h90v-82h-90v82zM968 84h-80v148l-258 3v87h338v-238zM630 384v246h-537v84h537v185h89v-423l97 -2v-88zM1025 568v-483h110v483h-110zM779 714v-85h111v-244l80 1v243l171 3v85zM488 1119h87v-90h144l1 -90h-145v-167h-87v347zM630 178v-88h205v88h-205zM483 570
+v-420h87v420h-87zM87 568v-82h175v82h-175zM903 1074h175v-170h-175v170zM132 298h177v-170l-177 -2v172zM132 1074h177v-170h-177v170zM1145 1138h-303v-301h303v301zM69 364v-298h301v298h-301zM370 1138h-301v-301h301v301zM0 -2v428l432 2v-428zM777 1200h429l1 -430
+h-430v430zM0 1198l432 2v-430l-432 -2v430z" />
+    <glyph glyph-name="uniE025" unicode="&#xe025;" 
+d="M297 1200l603 -607l-603 -587v346l275 241l-275 288v319zM297 1200v0zM811 470z" />
+    <glyph glyph-name="uniE026" unicode="&#xe026;" 
+d="M900 1201l-603 -607l603 -587v346l-275 241l275 288v319zM900 1201v0zM386 471z" />
+  </font>
+</defs></svg>
