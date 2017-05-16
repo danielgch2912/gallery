@@ -1,0 +1,20 @@
+.gallery2{
+	
+}
+
+
+.gallery3-image {
+	position: relative;
+	float: left;
+	box-sizing: border-box;
+	border: 2px solid white;
+	overflow: hidden;
+	
+	background: lightblue;
+}
+
+.gallery3-image>img {
+	display: block;
+    margin: 0;
+    padding: 0;
+}
