@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html lang="{{ config('app.locale') }}">
     <head>
-    	<title>Gallery 2</title>
+    	<title>Gallery 3</title>
     	
 		<script type="text/javascript" src="{{ asset('js/query.js') }}"></script>
 		<script type="text/javascript" src="{{ asset('js/gallery3.js') }}"></script>

@@ -21,4 +21,8 @@ class Gallery extends Controller {
 	public function gallery3() {
 		return view ( "gallery.gallery3" );
 	}
+	
+	public function gallery4() {
+		return view ( "gallery.gallery4" );
+	}
 }

@@ -21,4 +21,5 @@ Route::get ( 'album/{album}', 'AlbumController@listAlbum' );
 Route::get ( 'gallery1', 'Gallery@gallery1' );
 Route::get ( 'gallery2', 'Gallery@gallery2' );
 Route::get ( 'gallery3', 'Gallery@gallery3' );
+Route::get ( 'gallery4', 'Gallery@gallery4' );
 
